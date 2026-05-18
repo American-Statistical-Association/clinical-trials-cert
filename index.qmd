@@ -1,0 +1,288 @@
+---
+title: ""
+pagetitle: "ASA Clinical Trials Certificate Program"
+---
+
+```{=html}
+<nav class="site-nav">
+  <div class="nav-inner">
+    <div class="nav-logo">
+      <span class="nav-badge">ASA</span>
+      <span class="nav-title">Clinical Trials Certificate Program</span>
+    </div>
+    <div class="nav-links">
+      <a href="#about">About</a>
+      <a href="#model">Program Model</a>
+      <a href="#schedule">Schedule</a>
+      <a href="#who">Who Should Apply</a>
+      <a href="#apply" class="nav-apply">Apply Now</a>
+    </div>
+    <button class="nav-hamburger" aria-label="Open menu" onclick="document.querySelector('.nav-links').classList.toggle('open')">
+      <span></span><span></span><span></span>
+    </button>
+  </div>
+</nav>
+```
+
+```{=html}
+<!-- HERO -->
+<section class="hero">
+  <div class="hero-inner">
+    <div class="hero-tag">
+      <svg width="8" height="8" viewBox="0 0 8 8" aria-hidden="true"><circle cx="4" cy="4" r="4" fill="#c8872a"/></svg>
+      American Statistical Association &middot; Certificate Program
+    </div>
+    <h1>Clinical Trials<br><em>Certificate Program</em></h1>
+    <p class="hero-lead">A rigorous, cohort-based program for statisticians and data scientists ready to deepen their expertise in the design, analysis, and conduct of clinical trials.</p>
+    <div class="hero-stats">
+      <div class="hero-stat">
+        <span class="hero-stat-num">18</span>
+        <span class="hero-stat-label">Instructional modules</span>
+      </div>
+      <div class="hero-stat">
+        <span class="hero-stat-num">20</span>
+        <span class="hero-stat-label">Cohort seats</span>
+      </div>
+      <div class="hero-stat">
+        <span class="hero-stat-num">3 hrs</span>
+        <span class="hero-stat-label">Per module</span>
+      </div>
+      <div class="hero-stat">
+        <span class="hero-stat-num">1</span>
+        <span class="hero-stat-label">Capstone project</span>
+      </div>
+    </div>
+    <div class="hero-cta">
+      <a href="#apply" class="btn-primary">Apply to the cohort</a>
+      <a href="#model" class="btn-outline">See the program model</a>
+    </div>
+  </div>
+</section>
+```
+
+```{=html}
+<!-- ABOUT -->
+<section class="section-about" id="about">
+  <div class="section-inner">
+    <div class="section-label">About the program</div>
+    <h2 class="section-title">Built for practitioners who want to lead in clinical research</h2>
+    <p class="section-sub">Whether you're early in your career or pivoting deeper into trials methodology, this program meets you where you are and takes you further.</p>
+    <div class="about-grid">
+      <div class="about-card">
+        <div class="about-icon" aria-hidden="true">
+          <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg>
+        </div>
+        <h3>Cohort learning model</h3>
+        <p>You'll move through the program alongside a carefully selected group of 20 peers, building professional relationships that extend beyond the certificate itself.</p>
+      </div>
+      <div class="about-card">
+        <div class="about-icon" aria-hidden="true">
+          <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="18" height="18" rx="2"/><path d="M3 9h18M9 21V9"/></svg>
+        </div>
+        <h3>Applied from the start</h3>
+        <p>Every module pairs recorded instruction with a live interactive session. You're not just absorbing content — you're working with it alongside faculty and peers.</p>
+      </div>
+      <div class="about-card">
+        <div class="about-icon" aria-hidden="true">
+          <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><polyline points="22 12 18 12 15 21 9 3 6 12 2 12"/></svg>
+        </div>
+        <h3>Culminates in a capstone</h3>
+        <p>The program closes with a practicum and capstone project presented to the cohort and program faculty — a tangible demonstration of your expertise.</p>
+      </div>
+      <div class="about-card">
+        <div class="about-icon" aria-hidden="true">
+          <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="8" r="6"/><path d="M15.477 12.89 17 22l-5-3-5 3 1.523-9.11"/></svg>
+        </div>
+        <h3>ASA-credentialed</h3>
+        <p>Earn a certificate from the American Statistical Association.</p>
+      </div>
+    </div>
+  </div>
+</section>
+```
+
+```{=html}
+<!-- PROGRAM MODEL -->
+<section class="section-model" id="model">
+  <div class="section-inner">
+    <div class="section-label">Program model</div>
+    <h2 class="section-title">How the program is structured</h2>
+    <p class="section-sub">The eighteen modules, a practicum, and a capstone are designed as a complete arc from foundation to applied expertise.</p>
+
+    <div class="module-flow">
+      <div class="flow-step flow-step--light">
+        <div class="flow-step-num">Phase 1</div>
+        <h3>18 Modules</h3>
+        <p>Core curriculum delivered in two-part sessions over the program period, with planned breaks for reflection and deeper engagement.</p>
+      </div>
+      <div class="flow-arrow" aria-hidden="true">&#8594;</div>
+      <div class="flow-step flow-step--mid">
+        <div class="flow-step-num">Phase 2</div>
+        <h3>Practicum</h3>
+        <p>Applied engagement with clinical trials methods in a supervised professional or simulated context.</p>
+      </div>
+      <div class="flow-arrow" aria-hidden="true">&#8594;</div>
+      <div class="flow-step flow-step--dark">
+        <div class="hero-stat">
+  <span class="hero-stat-num">Sept</span>
+  <span class="hero-stat-label">2026 cohort start</span>
+</div>
+    </div>
+
+    <div class="session-grid">
+      <div class="session-card">
+        <div class="session-type">Part 1 of each module</div>
+        <h4>90-minute recorded session</h4>
+        <p>A pre-recorded instructional video available on demand. Watch on your own schedule, pause, and revisit as needed. Recorded sessions remain accessible throughout the entire program including during scheduled breaks.</p>
+        <span class="session-tag">Some modules include embedded assessments</span>
+      </div>
+      <div class="session-card">
+        <div class="session-type">Part 2 of each module</div>
+        <h4>90-minute live interactive session</h4>
+        <p>A synchronous session with faculty and the full cohort. Facilitated discussion, case application, and Q&amp;A build on the recorded material and connect it to real-world practice.</p>
+        <span class="session-tag">Some sessions include live assessments</span>
+      </div>
+    </div>
+  </div>
+</section>
+```
+
+```{=html}
+<!-- SCHEDULE -->
+<section class="section-schedule" id="schedule">
+  <div class="section-inner">
+    <div class="section-label">Pacing &amp; schedule</div>
+    <h2 class="section-title">Designed to fit professional life</h2>
+    <p class="section-sub">Sessions run on a weekly cadence with planned breaks giving you time to absorb material, manage your workload, and show up ready.</p>
+
+    <div class="timeline">
+      <div class="tl-phase">
+        <div class="tl-head">
+          <div class="tl-num">Modules 1–6</div>
+          <h4>Foundations</h4>
+        </div>
+        <div class="tl-body">Foundations of clinical research: trial design across early, middle, and late phases; writing objectives; selecting endpoints; and core principles of randomization.</div>
+      </div>
+      <div class="tl-phase">
+        <div class="tl-head">
+          <div class="tl-num">Modules 7–12</div>
+          <h4>Intermediate methods</h4>
+        </div>
+        <div class="tl-body">Statistical methodology in depth: power and sample size, analysis populations and methods, analysis principles, interim analyses and monitoring, adaptive and Bayesian designs, and biomarkers in precision medicine.</div>
+      </div>
+      <div class="tl-phase">
+        <div class="tl-head">
+          <div class="tl-num">Modules 13–18</div>
+          <h4>Advanced topics</h4>
+        </div>
+        <div class="tl-body">Advanced and applied topics: specialized trial designs, dissemination and reporting, protocol development and execution, regulation and oversight, data capture and management, and emerging trends shaping the future of clinical trials.</div>
+      </div>
+      <div class="tl-phase">
+        <div class="tl-head tl-head--gold">
+          <div class="tl-num">Final phase</div>
+          <h4>Practicum + Capstone</h4>
+        </div>
+        <div class="tl-body">Applied project with faculty guidance, closing with a capstone presentation to the cohort.</div>
+      </div>
+    </div>
+
+    <div class="schedule-note">
+      <strong>Flexible access:</strong> Recorded sessions are available throughout the program.
+    </div>
+  </div>
+</section>
+```
+
+```{=html}
+<!-- WHO SHOULD APPLY -->
+<section class="section-who" id="who">
+  <div class="section-inner">
+    <div class="section-label">Who should apply</div>
+    <h2 class="section-title">This program is for you if&hellip;</h2>
+    <p class="section-sub">The cohort is designed to bring together a range of backgrounds and career stages. We're looking for people ready to engage seriously with the material and contribute to each other's learning.</p>
+    <div class="who-grid">
+      <div class="who-card">
+        <span class="who-badge">Early career</span>
+        <h3>Statisticians &amp; biostatisticians building a foundation</h3>
+        <p>You have a degree in statistics, biostatistics, or a quantitative field and want structured, expert-led preparation for clinical trials work.</p>
+      </div>
+      <div class="who-card">
+        <span class="who-badge">Mid-career</span>
+        <h3>Professionals deepening or redirecting their expertise</h3>
+        <p>You work in industry, biotech, academia, or government and want to formalize your knowledge or transition more fully into trials methodology.</p>
+      </div>
+      <div class="who-card">
+        <span class="who-badge">Academic &amp; research</span>
+        <h3>Researchers engaged in clinical study design</h3>
+        <p>You collaborate on or lead clinical research and want deeper statistical grounding to strengthen your contributions to study teams.</p>
+      </div>
+      <div class="who-card">
+        <span class="who-badge">Data science</span>
+        <h3>Data scientists moving into regulated research</h3>
+        <p>You bring strong quantitative skills and want to understand the specific frameworks, standards, and methods that govern clinical trials.</p>
+      </div>
+    </div>
+  </div>
+</section>
+```
+
+```{=html}
+<!-- APPLICATION -->
+<section class="section-apply" id="apply">
+  <div class="section-inner">
+    <div class="section-label">Application</div>
+    <h2 class="section-title">Apply to the inaugural cohort</h2>
+    <p class="section-sub">The first cohort will include 20 participants selected through a competitive review process. We evaluate applications holistically.</p>
+    <div class="app-grid">
+      <div class="app-components">
+
+        <div class="app-item">
+          <div class="app-item-icon" aria-hidden="true">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/></svg>
+          </div>
+          <div class="app-item-text">
+            <h4>CV or résumé</h4>
+            <p>Your academic and professional background. PDF or Word document.</p>
+          </div>
+        </div>
+
+        <div class="app-item">
+          <div class="app-item-icon" aria-hidden="true">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M11 4H4a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-7"/><path d="M18.5 2.5a2.121 2.121 0 0 1 3 3L12 15l-4 1 1-4 9.5-9.5z"/></svg>
+          </div>
+          <div class="app-item-text">
+            <h4>Short-answer questions</h4>
+            <p>Two prompts (approximately 200–300 words each) that give the selection committee a clear picture of your background and motivation.</p>
+          </div>
+        </div>
+
+        <div class="app-prompts">
+          <ol>
+            <li>What draws you to clinical trials specifically, and how does this certificate connect to your professional goals?</li>
+            <li>Is there anything about your background or circumstances you'd like the selection committee to know?</li>
+          </ol>
+        </div>
+
+
+      <div class="app-cta-box">
+        <h3>Ready to apply?</h3>
+        <p>The inaugural cohort begins September 2026. Applications are reviewed on a rolling basis and closes once all available seats are filled.</p>
+        <div class="cohort-badge">
+          <span class="cohort-num">20</span>
+          <span class="cohort-label">Cohort seats available<br>Competitive selection</span>
+        </div>
+
+        <a href="https://amstat.jotform.com/form/clinical-trials-certificate-program" class="btn-apply" target="_blank" rel="noopener">Start your application &#8594;</a>
+        <p class="app-contact">Questions? Contact <a href="mailto:donnal@amstat.org">donnal@amstat.org</a></p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<footer class="site-footer">
+  <div class="footer-inner">
+    <p>&copy; 2025 American Statistical Association &middot; Clinical Trials Certificate Program</p>
+    <a href="https://www.amstat.org" target="_blank" rel="noopener">amstat.org</a>
+  </div>
+</footer>
+```

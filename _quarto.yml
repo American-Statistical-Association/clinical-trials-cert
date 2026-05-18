@@ -1,0 +1,36 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "ASA Clinical Trials Certificate Program"
+  description: "A rigorous, cohort-based certificate program for statisticians and data scientists."
+  favicon: assets/favicon.ico
+  open-graph:
+    title: "ASA Clinical Trials Certificate Program"
+    description: "A cohort-based certificate program from the American Statistical Association."
+  navbar:
+    left:
+      - text: "About"
+        href: index.qmd#about
+      - text: "Program Model"
+        href: index.qmd#model
+      - text: "Schedule"
+        href: index.qmd#schedule
+      - text: "Who Should Apply"
+        href: index.qmd#who
+    right:
+      - text: "Apply Now"
+        href: index.qmd#apply
+
+format:
+  html:
+    theme: none
+    css: assets/styles.css
+    toc: false
+    page-layout: full
+    include-in-header:
+      - text: |
+          <link rel="preconnect" href="https://fonts.googleapis.com">
+          <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+          <link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,300;0,8..60,400;0,8..60,600;1,8..60,300;1,8..60,400&family=DM+Sans:wght@300;400;500;600&display=swap" rel="stylesheet">
