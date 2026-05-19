@@ -168,7 +168,7 @@ pagetitle: "ASA Clinical Trials Certificate Program"
           <div class="tl-num">Modules 7–12</div>
           <h4>Intermediate methods</h4>
         </div>
-        <div class="tl-body">Statistical methodology in depth: power and sample size, analysis populations and methods, analysis principles, interim analyses and monitoring, adaptive and Bayesian designs, and biomarkers in precision medicine.</div>
+        <div class="tl-body">Statistical methodology in depth: power and sample size, analysis populations, analysis principles, interim analyses and monitoring, adaptive and Bayesian designs, and biomarkers in precision medicine.</div>
       </div>
       <div class="tl-phase">
         <div class="tl-head">
@@ -199,7 +199,7 @@ pagetitle: "ASA Clinical Trials Certificate Program"
   <div class="section-inner">
     <div class="section-label">Who should apply</div>
     <h2 class="section-title">This program is for you if&hellip;</h2>
-    <p class="section-sub">The cohort is designed to bring together a range of backgrounds and career stages. We're looking for people ready to engage seriously with the material and contribute to each other's learning.</p>
+    <p class="section-sub">…you're ready to go deeper. Whether you're building your foundation or formalizing expertise you've gained on the job, this program is designed for statisticians and data scientists who want to do more rigorous, impactful work in clinical research.</p>
     <div class="who-grid">
       <div class="who-card">
         <span class="who-badge">Early career</span>
@@ -268,9 +268,15 @@ pagetitle: "ASA Clinical Trials Certificate Program"
         <h3>Ready to apply?</h3>
         <p>The inaugural cohort begins September 2026. Applications are reviewed on a rolling basis and closes once all available seats are filled.</p>
         <div class="cohort-badge">
-          <span class="cohort-num">20</span>
-          <span class="cohort-label">Cohort seats available<br>Competitive selection</span>
-        </div>
+  <span class="cohort-num">20</span>
+  <span class="cohort-label">Cohort seats available<br>Competitive selection</span>
+</div>
+<div class="cohort-badge">
+  <div style="display:flex;flex-direction:column;gap:4px;">
+    <span class="cohort-label" style="color:var(--gold);font-size:15px;font-weight:600;">ASA Members: $3,500</span>
+    <span class="cohort-label" style="color:rgba(255,255,255,.75);font-size:15px;font-weight:600;">Non-members: $4,500</span>
+  </div>
+</div>
 
         <a href="https://amstat.jotform.com/form/clinical-trials-certificate-program" class="btn-apply" target="_blank" rel="noopener">Start your application &#8594;</a>
         <p class="app-contact">Questions? Contact <a href="mailto:donnal@amstat.org">donnal@amstat.org</a></p>
